@@ -1,8 +1,11 @@
 ### Hi there 👋
-- 🌱 I’m currently studying for a bachelor's degree of Software Engineering @ Shanghai Jiao Tong University.
+- 🌱 I’m currently studying~striving~ for a bachelor's degree of Software Engineering @ Shanghai Jiao Tong University.
+- ✈️ Code 4 fun. Take a breath. Embrace the WORLD.
 - 📫 How to reach me: BillLi233@outlook.com
-- 😄 Pronouns: secret :D 
+- 😄 Pronouns: shhhh :P / just call me Bill :D
 - ⚡ Fun fact: I use Windows® only for gaming.
+
+
 <!--
 **GMH233/GMH233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
