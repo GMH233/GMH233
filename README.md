@@ -5,6 +5,8 @@
 - 😄 Pronouns: just call me Bill :D
 - ⚡ Fun fact: I use Windows® only for gaming.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **GMH233/GMH233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
