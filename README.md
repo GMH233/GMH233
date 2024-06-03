@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,7 +53,7 @@ IntelliJ                 48 mins             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2024 18:34:40 UTC
+ Last Updated on 03/06/2024 18:37:49 UTC
 <!--END_SECTION:waka-->
 
 <!--
