@@ -52,7 +52,7 @@ VS Code                  5 hrs 11 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2024 18:36:34 UTC
+ Last Updated on 01/07/2024 18:37:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
