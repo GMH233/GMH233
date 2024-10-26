@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-362%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,11 +37,14 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      43 mins             █████████████████████████   99.98 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C++                      1 hr 36 mins        █████████████████████░░░░   84.08 % 
+Other                    16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Assembly                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -49,7 +52,7 @@ VS Code                  43 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2024 18:41:27 UTC
+ Last Updated on 26/10/2024 18:39:23 UTC
 <!--END_SECTION:waka-->
 
 <!--
