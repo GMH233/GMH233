@@ -6,49 +6,14 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2038%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-🌆 Daytime                520 commits         ███████████████░░░░░░░░░░   59.29 % 
-🌃 Evening                267 commits         ████████░░░░░░░░░░░░░░░░░   30.44 % 
-🌙 Night                  69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  376 commits         ███████████░░░░░░░░░░░░░░   42.87 % 
-Wednesday                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Friday                   124 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Saturday                 56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Sunday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 02/11/2024 18:39:14 UTC
+ Last Updated on 03/11/2024 18:40:06 UTC
 <!--END_SECTION:waka-->
 
 <!--
