@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm an Early 🐤** 
 
@@ -52,7 +52,7 @@ VS Code                  30 hrs 28 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2024 18:43:01 UTC
+ Last Updated on 30/11/2024 18:41:34 UTC
 <!--END_SECTION:waka-->
 
 <!--
