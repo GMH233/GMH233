@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -37,10 +37,12 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              ██████████████░░░░░░░░░░░   56.27 % 
+C++                      1 min               ██████████░░░░░░░░░░░░░░░   40.63 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -48,7 +50,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 18:38:49 UTC
+ Last Updated on 30/12/2024 18:41:27 UTC
 <!--END_SECTION:waka-->
 
 <!--
