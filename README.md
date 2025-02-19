@@ -37,11 +37,10 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      23 mins             ████████████████████████░   95.87 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -49,7 +48,7 @@ VS Code                  24 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 18/02/2025 18:44:01 UTC
+ Last Updated on 19/02/2025 18:43:37 UTC
 <!--END_SECTION:waka-->
 
 <!--
