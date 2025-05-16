@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-429%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-431%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,10 +37,14 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr                ████████████░░░░░░░░░░░░░   48.46 % 
+YAML                     34 mins             ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Bash                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -48,7 +52,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 18:48:05 UTC
+ Last Updated on 16/05/2025 18:46:55 UTC
 <!--END_SECTION:waka-->
 
 <!--
