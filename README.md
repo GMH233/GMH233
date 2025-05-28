@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,13 +37,10 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     9 mins              ████████████░░░░░░░░░░░░░   48.57 % 
-Other                    7 mins              ██████████░░░░░░░░░░░░░░░   38.86 % 
-Python                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -51,7 +48,7 @@ VS Code                  20 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2025 18:48:48 UTC
+ Last Updated on 28/05/2025 18:47:17 UTC
 <!--END_SECTION:waka-->
 
 <!--
