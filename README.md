@@ -37,11 +37,10 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     6 mins              █████████████████████████   99.94 % 
-GraphQL                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -49,7 +48,7 @@ IntelliJ IDEA            6 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 18:47:26 UTC
+ Last Updated on 29/06/2025 18:46:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
