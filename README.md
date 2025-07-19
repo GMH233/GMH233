@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,12 +37,14 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Groovy                   9 mins              ████████████░░░░░░░░░░░░░   49.21 % 
-Gradle                   6 mins              █████████░░░░░░░░░░░░░░░░   34.51 % 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Python                   17 mins             ████████████░░░░░░░░░░░░░   49.31 % 
+Groovy                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+Gradle                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Markdown                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            18 mins             █████████████░░░░░░░░░░░░   50.69 % 
+VS Code                  17 mins             ████████████░░░░░░░░░░░░░   49.31 % 
 ```
 
 **Timeline**
@@ -50,7 +52,7 @@ IntelliJ IDEA            18 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 18:51:39 UTC
+ Last Updated on 19/07/2025 18:49:22 UTC
 <!--END_SECTION:waka-->
 
 <!--
