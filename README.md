@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -37,14 +37,12 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 2 mins         █████████████████████░░░░   84.03 % 
-YAML                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-reStructuredText         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   2 hrs 53 mins       █████████████████████████   99.83 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +50,7 @@ VS Code                  1 hr 14 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 11/11/2025 18:49:00 UTC
+ Last Updated on 12/11/2025 18:47:47 UTC
 <!--END_SECTION:waka-->
 
 <!--
