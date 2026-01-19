@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -37,14 +37,14 @@ Sunday                   117 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 31 mins       ██████████████████░░░░░░░   73.25 % 
-JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-Java Properties          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+TypeScript               3 hrs 31 mins       ██████████████████░░░░░░░   72.81 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Java Properties          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 PowerShell               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -52,7 +52,7 @@ VS Code                  4 hrs 48 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 18:50:20 UTC
+ Last Updated on 19/01/2026 18:55:46 UTC
 <!--END_SECTION:waka-->
 
 <!--
