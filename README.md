@@ -37,13 +37,13 @@ Sunday                   117 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 7 mins        ███████████████████████░░   90.54 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               3 hrs 51 mins       ██████████████████████░░░   87.82 % 
+CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -51,7 +51,7 @@ VS Code                  5 hrs 39 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2026 19:06:04 UTC
+ Last Updated on 31/01/2026 18:53:25 UTC
 <!--END_SECTION:waka-->
 
 <!--
