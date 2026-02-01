@@ -6,52 +6,14 @@
 - ⚡ Fun fact: I use Windows® only for gaming.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2010%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-🌆 Daytime                522 commits         ███████████████░░░░░░░░░░   59.39 % 
-🌃 Evening                267 commits         ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌙 Night                  69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Tuesday                  376 commits         ███████████░░░░░░░░░░░░░░   42.78 % 
-Wednesday                97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Thursday                 3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Friday                   124 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Saturday                 57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Sunday                   117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               3 hrs 51 mins       ██████████████████████░░░   87.82 % 
-CSS                      18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.00 % 
-```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/GMH233/GMH233/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 18:53:25 UTC
+ Last Updated on 01/02/2026 18:57:58 UTC
 <!--END_SECTION:waka-->
 
 <!--
